@@ -35,3 +35,12 @@ These attributes correlate with a greater chance of coupon **rejection**:
 
 ### Github Link
 https://github.com/giahuy-h/coupon_analysis
+
+### Instruction
+The Jupyter Notebook file requires the following packages. Please ensure the packages are installed before running the notebook.
+- matplotlib
+- seaborn
+- pandas
+- numpy
+- plotly
+- itertools

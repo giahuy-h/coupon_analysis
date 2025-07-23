@@ -34,3 +34,4 @@ These attributes correlate with a greater chance of coupon **rejection**:
 *With these characteristics, drivers are approximately 16%–24% more likely to reject the coupon than accept it.*
 
 ### Github Link
+https://github.com/giahuy-h/coupon_analysis
